@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "enquiry_forms",
+  "info": {
+    "singularName": "enquiry-form",
+    "pluralName": "enquiry-forms",
+    "displayName": "Enquiry Form"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
